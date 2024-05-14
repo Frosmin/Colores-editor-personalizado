@@ -1,0 +1,45 @@
+{
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "workbench.sideBar.location": "right",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "'Cascadia Code',Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.fontVariations": false,
+    "editor.fontSize": 14.5,
+    "window.commandCenter": false,
+    "workbench.layoutControl.enabled": false,
+    "editor.cursorBlinking": "expand",
+    "editor.linkedEditing": true,
+    "editor.guides.bracketPairs": true,
+    "breadcrumbs.enabled": false,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "githubPullRequests.pullBranch": "never",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "gitlens.ai.experimental.provider": "anthropic",
+    "gitlens.ai.experimental.openai.model": "gpt-4-turbo-preview",
+    "gitlens.ai.experimental.anthropic.model": "claude-3-opus-20240229",
+    "workbench.colorCustomizations": {
+        "editor.background": "#000000",
+        "sideBar.background": "#000000",
+        "statusBar.background": "#000000",
+        "panel.background": "#000000",
+        "terminal.background": "#000000",
+        "titleBar.activeBackground": "#000000",
+        "titleBar.inactiveBackground": "#000000",
+
+        // texto
+        "editor.foreground": "#FFFFFF",
+        "titleBar.activeForeground": "#FFFFFF",
+        "sideBar.foreground": "#FFFFFF",
+
+        //barra vertical 
+        "activityBar.background": "#000000",
+
+        //barra superior horizontal
+        "tab.activeBackground": "#000000",
+        "tab.inactiveBackground": "#000000",
+        "editorGroupHeader.tabsBackground": "#000000"
+    }
+}
